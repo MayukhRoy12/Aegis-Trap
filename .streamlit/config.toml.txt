@@ -1,0 +1,15 @@
+[theme]
+# The glowing hacker green for buttons and highlights
+primaryColor = "#00FF41"
+
+# Deep, dark terminal background
+backgroundColor = "#0D1117"
+
+# Slightly lighter dark grey for the sidebar and data tables
+secondaryBackgroundColor = "#161B22"
+
+# Classic terminal green for all the text
+textColor = "#00FF41"
+
+# Forces the entire app to use a monospaced coding font
+font = "monospace"
